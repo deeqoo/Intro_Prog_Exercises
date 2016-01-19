@@ -1,0 +1,8 @@
+Exercise 11
+Look at several Rails/Ruby API Source
+and say which one you like. 
+
+
+http://ruby-doc.org/ is the best I found. It's clean and organised well, easy to get to the section you want quickly. also can read multiple versions of the ruby corresponding to the ruby version you are using. And since it's offical vesion you can know it corresponds with ruby you have installed. 
+
+However http://devdocs.io/ruby/  provides best description and examples of each api doc, ideal but it doesn't say what version of ruby its refering to. 

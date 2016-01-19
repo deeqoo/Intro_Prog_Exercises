@@ -1,0 +1,5 @@
+Exercise 7
+What's the difference between an Array and Hash?
+
+Solution:
+An array is an ordered list and it's accessed through index while Hash is collection of key/value pair and is accessed by the key.
