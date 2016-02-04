@@ -1,1 +1,1 @@
-Exercise for Intro Programming, Launch School. 
+Exercises for Intro Programming, Learning ruby and versioning as well.  
